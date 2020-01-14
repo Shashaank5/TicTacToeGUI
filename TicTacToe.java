@@ -8,9 +8,6 @@
 	/**
 	 * A class modelling a tic-tac-toe (noughts and crosses, Xs and Os) game.
 	 * 
-	 * @author Lynn Marshall
-	 * @version November 8, 2012
-	 * 
 	 * @author ShashaankSrivastava  
 	 * @version November 25, 2019
 	 */
